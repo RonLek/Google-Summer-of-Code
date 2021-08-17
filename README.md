@@ -14,6 +14,7 @@
         <a href="#-deliverables">Deliverables</a>&nbsp;&nbsp;&nbsp;
         <a href="#-demo">Demo</a>&nbsp;&nbsp;&nbsp;
         <a href="#-contributions">Contributions</a>&nbsp;&nbsp;&nbsp;
+        <a href="#-blog">Blog</a>&nbsp;&nbsp;&nbsp;
         <a href="#-mentor">Mentor</a>&nbsp;&nbsp;&nbsp;
         <a href="#-links">Links</a>
     </code>
@@ -57,7 +58,7 @@ The following are the deliverables of this project:
 ## 🚀 Contributions
 
 
-### Following is a list of Pull Requests and Issues which I submitted during the GSoC period.
+### PRs
 
 <div align="center">
 
@@ -72,9 +73,7 @@ The following are the deliverables of this project:
 
 </div>
 
-<br>
-    
-#### The following Issues have been created to provide details over the features implemented.
+### Issues
     
 
 <div align="center">
@@ -95,6 +94,21 @@ Besides my GSoC project I have been contributing prolifically to other Rocket.Ch
     
 - [Pull Requests (>50)](https://github.com/pulls?q=is:pr+org:RocketChat+author:RonLek)
 - [Issues (>25)](https://github.com/issues?q=is:issue+org:RocketChat+author:RonLek)
+    
+## 😎 Blog
+    
+I have been writing blogs regarding each stage of GSoC. 
+
+Fun fact: One of my blogs got published on HackerNoon as well! 🕕
+    
+| **GSoC Phase** | Blog |
+|:--------------------|:-------------------|
+| Selection | [How I Got Selected into Google Summer of Code](https://rohanlekhwani.medium.com/how-i-got-selected-into-google-summer-of-code-e3db8bbaeb56) |
+| Community Bonding Period | [Google Summer of Code: How to Ensure a Successful Community Bonding Period](https://rohanlekhwani.medium.com/google-summer-of-code-how-to-ensure-a-successful-community-bonding-period-605a5147ee20) |
+| Coding Phase 1 | [Commit, Push, Merge: GSoC Coding Phase 1](https://rohanlekhwani.medium.com/commit-push-merge-gsoc-coding-phase-6b6c6daf8229) |
+| First Evaluation | [GSoC First Evaluations: All You Need to Know](https://rohanlekhwani.medium.com/gsoc-first-evaluations-all-you-need-to-know-18f89ff2676a) |
+| Coding Phase 2 | In Progress |
+| Final Evaluation | In Progress |
     
 ## 🔗 Links
     
