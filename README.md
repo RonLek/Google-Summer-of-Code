@@ -12,7 +12,7 @@
     <code> 
         <a href="#-project-abstract">Project Abstract</a>&nbsp;&nbsp;&nbsp;
         <a href="#-deliverables">Deliverables</a>&nbsp;&nbsp;&nbsp;
-        <a href="#-working-demo">Working Demo</a>&nbsp;&nbsp;&nbsp;
+        <a href="#-demo">Working Demo</a>&nbsp;&nbsp;&nbsp;
         <a href="#-contributions">Contributions</a>&nbsp;&nbsp;&nbsp;
         <a href="#-mentor">Mentor</a>&nbsp;&nbsp;&nbsp;
         <a href="#-links">Links</a>
