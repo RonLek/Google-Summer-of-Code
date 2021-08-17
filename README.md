@@ -97,6 +97,8 @@ Besides my GSoC project I have been contributing prolifically to other Rocket.Ch
 - [Issues (>25)](https://github.com/issues?q=is:issue+org:RocketChat+author:RonLek)
     
 ## 🔗 Links
+    
+<div align="center">
 
 | **Student** | Rohan Lekhwani |
 |:--------------------|:-------------------|
@@ -108,4 +110,5 @@ Besides my GSoC project I have been contributing prolifically to other Rocket.Ch
 | **Website** | [ronlek.github.io](https://ronlek.github.io) |
 | **Email** | <a href="mailto:rohanlekhwani@gmail.com">rohanlekhwani@gmail.com</a> |
 | **Rocket.Chat** | [rohan.lekhwani](https://open.rocket.chat/direct/rohan.lekhwani) |
-
+    
+</div>
