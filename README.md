@@ -15,7 +15,7 @@
         <a href="#-demo">Demo</a>&nbsp;&nbsp;&nbsp;
         <a href="#-contributions">Contributions</a>&nbsp;&nbsp;&nbsp;
         <a href="#-blog">Blog</a>&nbsp;&nbsp;&nbsp;
-        <a href="#-mentor">Mentor</a>&nbsp;&nbsp;&nbsp;
+        <a href="#-mentors">Mentors</a>&nbsp;&nbsp;&nbsp;
         <a href="#-links">Links</a>
     </code>
 </p>
@@ -49,7 +49,7 @@ The following are the deliverables of this project:
   - Multi-question polls.
   - Time limit for answering each question
 
-**All of the above deliverables were completed within the GSoC period. 🎉**
+**All of the above deliverables were completed within the GSoC period. Yay! 🎉**
 
 ## 📺 Demo
 
@@ -113,6 +113,16 @@ Fun fact: One of my blogs got published on HackerNoon as well! 🕕
 | Final Evaluation | In Progress |
     
 </div>
+    
+## 🎓 Mentors
+
+A big big thank you to my mentors for their guidance before and throughout GSoC. 🙏 
+    
+I learned beyond GSoC from them and am forever grateful to be mentored by them.
+
+- **Ramkumar KB** - [GitHub](https://github.com/ramkumarkb). [LinkedIn](https://www.linkedin.com/in/ramkumarkb)
+
+- **Murtaza Patrawala** - [GitHub](https://github.com/murtaza98). [LinkedIn](https://www.linkedin.com/in/murtaza-patrawala-b17419166/)
 
 ## 🔗 Links
     
