@@ -10,12 +10,12 @@
 
 <p align="center">
     <code> 
-        <a href="#project-abstract">Project Abstract</a>&nbsp;&nbsp;&nbsp;
-        <a href="#deliverables">Deliverables</a>&nbsp;&nbsp;&nbsp;
-        <a href="#working-demo">Working Demo</a>&nbsp;&nbsp;&nbsp;
-        <a href="#contributions">Contributions</a>&nbsp;&nbsp;&nbsp;
-        <a href="#mentor">Mentor</a>&nbsp;&nbsp;&nbsp;
-        <a href="#links">Links</a>
+        <a href="#-project-abstract">Project Abstract</a>&nbsp;&nbsp;&nbsp;
+        <a href="#-deliverables">Deliverables</a>&nbsp;&nbsp;&nbsp;
+        <a href="#-working-demo">Working Demo</a>&nbsp;&nbsp;&nbsp;
+        <a href="#-contributions">Contributions</a>&nbsp;&nbsp;&nbsp;
+        <a href="#-mentor">Mentor</a>&nbsp;&nbsp;&nbsp;
+        <a href="#-links">Links</a>
     </code>
 </p>
 
@@ -25,7 +25,7 @@ From not having used Typescript before, to building an entire App completely in 
 
 I intend to maintain this repository as a final report summary of my GSoC work and a quick guide for all future GSoC aspirants.
 
-## Project Abstract 📽️
+## 📽️ Project Abstract
 
 The Rocket.Chat [Poll App](https://github.com/RocketChat/rocket.chat.app-poll) is the go-to app for teams and channel members of any Rocket.Chat room for a rich interactive poll. This project aims to hugely expand its scope making it a tool for enhancing participant's engagement with interactive quizzes / trivia / live-polls.
 
