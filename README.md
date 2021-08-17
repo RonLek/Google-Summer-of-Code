@@ -95,3 +95,17 @@ Besides my GSoC project I have been contributing prolifically to other Rocket.Ch
     
 - [Pull Requests (>50)](https://github.com/pulls?q=is:pr+org:RocketChat+author:RonLek)
 - [Issues (>25)](https://github.com/issues?q=is:issue+org:RocketChat+author:RonLek)
+    
+## 🔗 Links
+
+| **Student** | Rohan Lekhwani |
+|:--------------------|:-------------------|
+| **Organization** | [Rocket.Chat](https://rocket.chat/) |
+| **Project** | [Poll App Mega Extensions](https://summerofcode.withgoogle.com/projects/#6521788818784256) |
+| **GitHub** | [@RonLek](https://github.com/RonLek) |
+| **LinkedIn** | [rohanlekhwani](https://www.linkedin.com/in/rohanlekhwani) |
+| **Twitter** | [rohanlekhwani](https://www.twitter.com/rohanlekhwani) |
+| **Website** | [ronlek.github.io](https://ronlek.github.io) |
+| **Email** | <a href="mailto:rohanlekhwani@gmail.com">rohanlekhwani@gmail.com</a> |
+| **Rocket.Chat** | [rohan.lekhwani](https://open.rocket.chat/direct/rohan.lekhwani) |
+
