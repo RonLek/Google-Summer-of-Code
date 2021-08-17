@@ -101,6 +101,8 @@ I have been writing blogs regarding each stage of GSoC.
 
 Fun fact: One of my blogs got published on HackerNoon as well! 🕕
     
+<div align="center">
+    
 | **GSoC Phase** | Blog |
 |:--------------------|:-------------------|
 | Selection | [How I Got Selected into Google Summer of Code](https://rohanlekhwani.medium.com/how-i-got-selected-into-google-summer-of-code-e3db8bbaeb56) |
@@ -110,6 +112,8 @@ Fun fact: One of my blogs got published on HackerNoon as well! 🕕
 | Coding Phase 2 | In Progress |
 | Final Evaluation | In Progress |
     
+</div>
+
 ## 🔗 Links
     
 <div align="center">
