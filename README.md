@@ -53,10 +53,73 @@ The following are the deliverables of this project:
 
 ## 📺 Demo
 
-<!-- TODO: Add demo videos -->
+### Improved Response Visualizations of Poll Results
+
+The Poll App currently offers a basic grayscale visualization of responses in the form of a bar graph. This has been significantly improved to better the user experience through the following implementations:
+
+#### Highlight Winner Response
+
+If you’ve used the Poll App before you would know how boring grayscale gets. It is impossible to identify which vote is the winner. This subfeature improves upon this by using unicode characters to display winner responses in blue and the remaining in black. This theme has been inspired by Twitter Polls.
+
+Now this has a tricky edge case. What if more than two responses have the same number of votes? Which one becomes blue then? Answer: All of them!
+
+#### Dynamically Updated Total Votes
+
+In the current Poll App the only way to estimate the total number of votes is to manually count total votes received per response. Moreover, since the numbers of votes for each response keep changing asynchronously as members vote it is cumbersome to keep count of the total votes. This subfeature eliminates this hurdle and provides dynamically updated total votes. It also displays a "Final Results" label when the Poll has ended.
+
+https://user-images.githubusercontent.com/28918901/130346282-5f89a383-499f-41df-8528-eb16fc0627d0.mp4
+
+### Mixed Visibility Mode
+
+The Poll App offered two visibilities of voter identities for responses - Open and Confidential. This implementation adds another visibility - Mixed. The Mixed visibility mode now allows the Poll creator to decide beforehand for which options the voter identities should be revealed and for which ones they should stay anonymous.
+
+https://user-images.githubusercontent.com/28918901/130346389-6539289c-a6fa-42b0-8edb-8681dc285461.mp4
+
+### Ability to Add User-Defined Options
+
+Polls posted in groups on platforms such as Facebook allow group members to add options after the poll has been created. This better involves the community and evokes ideas and opinions from the entire group, not limited to only the poll creator. Through this implementation a similar functionality has been extended to the Rocket.Chat Poll App.
+
+https://user-images.githubusercontent.com/28918901/130346432-6039c672-f739-4573-854c-6ec5a159ab85.mp4
+
+### Word Cloud Generation for Poll Responses
+
+Until now the only way to view responses was a bar graph. Bar graphs are simple. Bar graphs do the job and bar graphs are just OK. Introducing word clouds for poll responses. Wordcloud make can make use of a specific user-defined API to fetch wordclouds. An option is to use the [Quickchart wordcloud API](http://quickchart.io/documentation/word-cloud-api/) which works well on Rocket.Chat servers with Internet access. 
+
+In case you're running a Rocket.Chat server locally in an isolated environment, I have created an API for fetching wordclouds (which works better than Quickchart enterpise 🚀). This API even allows you to customize your wordcloud responses and also factors in number of votes for size of each word within the wordcloud. I have open-sourced the word-cloud API [here](https://github.com/RonLek/wordcloud-api). Feel free to use and contribute!
+
+https://user-images.githubusercontent.com/28918901/130346661-358ceac8-3504-41d7-b23e-f9119ce652b7.mp4
+
+### Additional Poll Modes 
+
+Currently the Poll App has two modes of poll creation - Multiple Choice and Single Choice. This implementation extends these modes to the following types:
+- 1-to-5 Poll.
+- 1-to-10 Poll.
+- Agree/Disagree Poll.
+- Overrated/Underrated Poll.
+
+The benefit that these polls provide to the users is that the users get a template of poll options without having to fill them out themselves. For example, if it is a poll to “rate your favorite movie out of 10” instead of typing in all the numbers from 1 to 10, the user simply selects the 1-10 poll mode and the Poll App automatically fills out the options for the user.
+
+https://user-images.githubusercontent.com/28918901/130346483-ea670ea2-8132-4f47-ba84-b0638ea48ebc.mp4
+
+### Live Polls 
+
+We come to our final feature. Live Polls. This is like a mini-GSoC project on its own. If you have ever seen live quizzes where the user needs to vote before the time ends. Well this is it!
+
+Live Polls are a collection of multiple polls that are also timed. They allow the Poll creator to either jump to the next poll or wait for a `Time to vote` number of seconds to let the Poll App automatically finish the current poll and post the next Poll. The data is pulled from the persistent storage and the [Scheduler API](https://rocketchat.github.io/Rocket.Chat.Apps-engine/modules/scheduler.html) is used to schedule Poll finishes. Live Polls can be triggered through the `/poll live <number of polls>` command.
+
+A very good use-case of Live Polls is through schools and colleges to conduct timed-exams and quizzes on Rocket.Chat.
+
+https://user-images.githubusercontent.com/28918901/130346847-fbbdb43d-70c8-4bfc-8871-73a247d4d434.mp4
+
+Another feature of Live Polls is late retrieval. This allows the poll creator to pre-initialize the polls with questions, options and time to vote and retrieve them at a later time using and id. The id generated is unique to each Live Poll.
+
+Live Polls can be saved for later through the `/poll live save <number of polls>` command and can be retrieved through the `/poll live load <id>` command.
+
+https://user-images.githubusercontent.com/28918901/130346957-8db90149-29e9-4868-9bd9-a64f47a94556.mp4
+
+Live Polls can be retrieved by anyone within the room provided they possess the Live Poll id. On using the `/poll live load` command with a wrong or a non-existent Live Poll id an error message is shown to the user executing the command.
 
 ## 🚀 Contributions
-
 
 ### PRs
 
