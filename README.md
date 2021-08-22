@@ -53,7 +53,7 @@ The following are the deliverables of this project:
 
 ## 📺 Demo
 
-### Improved Response Visualizations of Poll Results
+### 📊 Improved Response Visualizations of Poll Results
 
 The Poll App currently offers a basic grayscale visualization of responses in the form of a bar graph. This has been significantly improved to better the user experience through the following implementations:
 
@@ -69,19 +69,19 @@ In the current Poll App the only way to estimate the total number of votes is to
 
 https://user-images.githubusercontent.com/28918901/130346282-5f89a383-499f-41df-8528-eb16fc0627d0.mp4
 
-### Mixed Visibility Mode
+### 👀 Mixed Visibility Mode
 
 The Poll App offered two visibilities of voter identities for responses - Open and Confidential. This implementation adds another visibility - Mixed. The Mixed visibility mode now allows the Poll creator to decide beforehand for which options the voter identities should be revealed and for which ones they should stay anonymous.
 
 https://user-images.githubusercontent.com/28918901/130346389-6539289c-a6fa-42b0-8edb-8681dc285461.mp4
 
-### Ability to Add User-Defined Options
+### 🙌 Ability to Add User-Defined Options
 
 Polls posted in groups on platforms such as Facebook allow group members to add options after the poll has been created. This better involves the community and evokes ideas and opinions from the entire group, not limited to only the poll creator. Through this implementation a similar functionality has been extended to the Rocket.Chat Poll App.
 
 https://user-images.githubusercontent.com/28918901/130346432-6039c672-f739-4573-854c-6ec5a159ab85.mp4
 
-### Word Cloud Generation for Poll Responses
+### ☁️ Word Cloud Generation for Poll Responses
 
 Until now the only way to view responses was a bar graph. Bar graphs are simple. Bar graphs do the job and bar graphs are just OK. Introducing word clouds for poll responses. Wordcloud make can make use of a specific user-defined API to fetch wordclouds. An option is to use the [Quickchart wordcloud API](http://quickchart.io/documentation/word-cloud-api/) which works well on Rocket.Chat servers with Internet access. 
 
@@ -89,7 +89,7 @@ In case you're running a Rocket.Chat server locally in an isolated environment, 
 
 https://user-images.githubusercontent.com/28918901/130346661-358ceac8-3504-41d7-b23e-f9119ce652b7.mp4
 
-### Additional Poll Modes 
+### ✨ Additional Poll Modes 
 
 Currently the Poll App has two modes of poll creation - Multiple Choice and Single Choice. This implementation extends these modes to the following types:
 - 1-to-5 Poll.
@@ -101,7 +101,7 @@ The benefit that these polls provide to the users is that the users get a templa
 
 https://user-images.githubusercontent.com/28918901/130346483-ea670ea2-8132-4f47-ba84-b0638ea48ebc.mp4
 
-### Live Polls 
+### ❤️ Live Polls 
 
 We come to our final feature. Live Polls. This is like a mini-GSoC project on its own. If you have ever seen live quizzes where the user needs to vote before the time ends. Well this is it!
 
@@ -189,6 +189,9 @@ I learned beyond GSoC from them and am forever grateful to be mentored by them.
 
 ## 🔗 Links
     
+- My GSoC Presentation can be found [here](https://bit.ly/gsoc-presentation).
+
+- Want to discuss about GSoC / Rocket.Chat / Open-source ? Let's connect!
 <div align="center">
 
 | **Student** | Rohan Lekhwani |
@@ -201,5 +204,5 @@ I learned beyond GSoC from them and am forever grateful to be mentored by them.
 | **Website** | [ronlek.github.io](https://ronlek.github.io) |
 | **Email** | <a href="mailto:rohanlekhwani@gmail.com">rohanlekhwani@gmail.com</a> |
 | **Rocket.Chat** | [rohan.lekhwani](https://open.rocket.chat/direct/rohan.lekhwani) |
-    
+       
 </div>
