@@ -191,6 +191,10 @@ I learned beyond GSoC from them and am forever grateful to be mentored by them.
     
 - My GSoC Presentation can be found [here](https://bit.ly/gsoc-presentation).
 
+- Watch the above presentation in video - [here](https://youtu.be/3jSNDDECdDg) !
+ 
+- We maintained a Kanban board to track our progress. [Take a look](https://github.com/orgs/RocketChat/projects/40)
+
 - Want to discuss about GSoC / Rocket.Chat / Open-source ? Let's connect!
 <div align="center">
 
