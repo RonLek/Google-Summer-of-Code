@@ -205,6 +205,7 @@ I learned beyond GSoC from them and am forever grateful to be mentored by them.
 | **GitHub** | [@RonLek](https://github.com/RonLek) |
 | **LinkedIn** | [rohanlekhwani](https://www.linkedin.com/in/rohanlekhwani) |
 | **Twitter** | [rohanlekhwani](https://www.twitter.com/rohanlekhwani) |
+| **Medium** | [rohanlekhwani](https://rohanlekhwani.medium.com/) |
 | **Website** | [ronlek.github.io](https://ronlek.github.io) |
 | **Email** | <a href="mailto:rohanlekhwani@gmail.com">rohanlekhwani@gmail.com</a> |
 | **Rocket.Chat** | [rohan.lekhwani](https://open.rocket.chat/direct/rohan.lekhwani) |
