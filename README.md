@@ -172,7 +172,7 @@ Fun fact: One of my blogs got published on HackerNoon as well! 🕕
 | Community Bonding Period | [Google Summer of Code: How to Ensure a Successful Community Bonding Period](https://rohanlekhwani.medium.com/google-summer-of-code-how-to-ensure-a-successful-community-bonding-period-605a5147ee20) |
 | Coding Phase 1 | [Commit, Push, Merge: GSoC Coding Phase 1](https://rohanlekhwani.medium.com/commit-push-merge-gsoc-coding-phase-6b6c6daf8229) |
 | First Evaluation | [GSoC First Evaluations: All You Need to Know](https://rohanlekhwani.medium.com/gsoc-first-evaluations-all-you-need-to-know-18f89ff2676a) |
-| Coding Phase 2 | In Progress |
+| Coding Phase 2 | [GSoC Coding Phase 2: Challenge Is an Understatement](https://rohanlekhwani.medium.com/gsoc-coding-phase-2-challenge-is-an-understatement-51451ba0a390) |
 | Final Evaluation | In Progress |
     
 </div>
