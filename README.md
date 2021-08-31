@@ -153,7 +153,7 @@ Live Polls can be retrieved by anyone within the room provided they possess the 
     
 ### My overall contributions at Rocket.Chat
     
-Besides my GSoC project I have been contributing prolifically to other Rocket.Chat projects - [RC4Git](https://github.com/RocketChat/RC4Community), [RC4Community](https://github.com/RonLek/RC4Community), [Opensource-Contribution-Leaderboard](https://github.com/RocketChat/Opensource-Contribution-Leaderboard), [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat).
+Besides my GSoC project I have been contributing prolifically to other Rocket.Chat projects - [RC4Git](https://github.com/RocketChat/RC4Github), [RC4Community](https://github.com/RocketChat/RC4Community), [Opensource-Contribution-Leaderboard](https://github.com/RocketChat/Opensource-Contribution-Leaderboard), [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat).
     
 - [Pull Requests (>50)](https://github.com/pulls?q=is:pr+org:RocketChat+author:RonLek)
 - [Issues (>25)](https://github.com/issues?q=is:issue+org:RocketChat+author:RonLek)
