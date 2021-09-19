@@ -173,7 +173,7 @@ Fun fact: One of my blogs got published on HackerNoon as well! 🕕
 | Coding Phase 1 | [Commit, Push, Merge: GSoC Coding Phase 1](https://rohanlekhwani.medium.com/commit-push-merge-gsoc-coding-phase-6b6c6daf8229) |
 | First Evaluation | [GSoC First Evaluations: All You Need to Know](https://rohanlekhwani.medium.com/gsoc-first-evaluations-all-you-need-to-know-18f89ff2676a) |
 | Coding Phase 2 | [GSoC Coding Phase 2: Challenge Is an Understatement](https://rohanlekhwani.medium.com/gsoc-coding-phase-2-challenge-is-an-understatement-51451ba0a390) |
-| Final Evaluation | In Progress |
+| Final Evaluation | [What Happens in Google Summer of Code Final Evaluations](https://rohanlekhwani.medium.com/what-happens-in-google-summer-of-code-final-evaluations-872d47e10dbb) |
     
 </div>
     
