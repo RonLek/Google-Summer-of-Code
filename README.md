@@ -189,6 +189,14 @@ I learned beyond GSoC from them and am forever grateful to be mentored by them.
 
 ## 🔗 Links
     
+- Read my Poll App project proposal that got me accepted to GSoC [here](https://bit.ly/gsoc-proposal1).
+
+- I also complemented it with Figma designs. Check them out [here](https://bit.ly/gsoc-proposal1-designs).
+
+- Community Collaborations: Improvements was the second project I applied to. Find the proposal [here](https://bit.ly/gsoc-proposal2).
+    
+- Designs for the Community Collaboration project reside [here](https://bit.ly/gsoc-proposal2-designs).
+    
 - My GSoC Presentation can be found [here](https://bit.ly/gsoc-presentation).
 
 - Watch the above presentation in video - [here](https://youtu.be/3jSNDDECdDg) !
