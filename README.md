@@ -130,9 +130,9 @@ Live Polls can be retrieved by anyone within the room provided they possess the 
 | [PR #2](https://github.com/RocketChat/rocket.chat.app-poll/pull/2) | [IMPROVEMENT] Poll Response Visualizations. <br><br> <div align="left"> Highlights include:<ul><li>Highlighting winner response</li><li>Dynamic display of Total Votes.</li><div> | <img src="https://i.imgur.com/tskv8MM.png" width=50 height=40> |
 | [PR #5](https://github.com/RocketChat/rocket.chat.app-poll/pull/5) | [NEW] Mixed visibility for poll responses | <img src="https://i.imgur.com/tskv8MM.png" width=50 height=40> |
 | [PR #8](https://github.com/RocketChat/rocket.chat.app-poll/pull/8) | [NEW] Add user defined options | <img src="https://i.imgur.com/tskv8MM.png" width=50 height=40> |
-| [PR #6](https://github.com/RocketChat/rocket.chat.app-poll/pull/6) | [NEW] Word cloud generation for poll responses | <img src="https://i.imgur.com/1r1keCi.png" width=50 height=40> |
-| [PR #11](https://github.com/RocketChat/rocket.chat.app-poll/pull/11) | [NEW] Additional poll modes | <img src="https://i.imgur.com/1r1keCi.png" width=50 height=40>
-| [PR #13](https://github.com/RocketChat/rocket.chat.app-poll/pull/13) | [NEW] Live Poll <br><br> <div align="left"> Highlights include <ul><li>Multi-Question Polls</li><li>Timed Polls</li><li>Late Retrieval of Live Poll</li></ul> | <img src="https://i.imgur.com/1r1keCi.png" width=50 height=40> |
+| [PR #6](https://github.com/RocketChat/rocket.chat.app-poll/pull/6) | [NEW] Word cloud generation for poll responses | <img src="https://i.imgur.com/tskv8MM.png" width=50 height=40> |
+| [PR #11](https://github.com/RocketChat/rocket.chat.app-poll/pull/11) | [NEW] Additional poll modes | <img src="https://i.imgur.com/tskv8MM.png" width=50 height=40>
+| [PR #13](https://github.com/RocketChat/rocket.chat.app-poll/pull/13) | [NEW] Live Poll <br><br> <div align="left"> Highlights include <ul><li>Multi-Question Polls</li><li>Timed Polls</li><li>Late Retrieval of Live Poll</li></ul> | <img src="https://i.imgur.com/tskv8MM.png" width=50 height=40> |
 
 </div>
 
@@ -145,9 +145,9 @@ Live Polls can be retrieved by anyone within the room provided they possess the 
 | :-----------: | :------------------------------------:| :------:|
 | [ISSUE #4](https://github.com/RocketChat/rocket.chat.app-poll/issues/4) | [FEATURE] Mixed Visibility for Poll Responses | <img src="https://i.imgur.com/ihaDyZS.png" width=50 height=40> |
 | [ISSUE #7](https://github.com/RocketChat/rocket.chat.app-poll/issues/7) | [FEATURE] Allow adding user-defined choices after Poll creation | <img src="https://i.imgur.com/ihaDyZS.png" width=50 height=40> |
-| [ISSUE #3](https://github.com/RocketChat/rocket.chat.app-poll/issues/3) | [FEATURE] Word Cloud Generation for Poll Responses | <img src="https://i.imgur.com/1r1keCi.png" width=50 height=40> |
-| [ISSUE #10](https://github.com/RocketChat/rocket.chat.app-poll/issues/10) | [FEATURE] Additional Poll Modes Template | <img src="https://i.imgur.com/1r1keCi.png" width=50 height=40> |
-| [ISSUE #12](https://github.com/RocketChat/rocket.chat.app-poll/issues/12) | [FEATURE] Live Poll: Multi-Question and Timed Polls | <img src="https://i.imgur.com/1r1keCi.png" width=50 height=40>
+| [ISSUE #3](https://github.com/RocketChat/rocket.chat.app-poll/issues/3) | [FEATURE] Word Cloud Generation for Poll Responses | <img src="https://i.imgur.com/ihaDyZS.png" width=50 height=40> |
+| [ISSUE #10](https://github.com/RocketChat/rocket.chat.app-poll/issues/10) | [FEATURE] Additional Poll Modes Template | <img src="https://i.imgur.com/ihaDyZS.png" width=50 height=40> |
+| [ISSUE #12](https://github.com/RocketChat/rocket.chat.app-poll/issues/12) | [FEATURE] Live Poll: Multi-Question and Timed Polls | <img src="https://i.imgur.com/ihaDyZS.png" width=50 height=40>
 
 </div>
     
