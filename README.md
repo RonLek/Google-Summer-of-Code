@@ -203,7 +203,11 @@ I learned beyond GSoC from them and am forever grateful to be mentored by them.
  
 - We maintained a Kanban board to track our progress. [Take a look](https://github.com/orgs/RocketChat/projects/40)
 
-- Want to discuss about GSoC / Rocket.Chat / Open-source ? Let's connect!
+## ❤️ Support
+Learned something new today? Reciprocate the love. ⭐ this repo for good karma.
+    
+## 💬 Connect With Me    
+Want to discuss about GSoC / Rocket.Chat / Open-source ? Let's connect!
 <div align="center">
 
 | **Student** | Rohan Lekhwani |
@@ -219,6 +223,3 @@ I learned beyond GSoC from them and am forever grateful to be mentored by them.
 | **Rocket.Chat** | [rohan.lekhwani](https://open.rocket.chat/direct/rohan.lekhwani) |
        
 </div>
-    
-## ❤️ Support
-Learned something new today? Reciprocate the love. ⭐ this repo for good karma.
