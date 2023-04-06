@@ -8,17 +8,16 @@
     </b>
 </div>
 
+<br>
+<br>
+
 <p align="center">
-    <code> 
-        <a href="#-project-abstract">Project Abstract</a>&nbsp;&nbsp;&nbsp;
-        <a href="#-deliverables">Deliverables</a>&nbsp;&nbsp;&nbsp;
-        <a href="#-demo">Demo</a>&nbsp;&nbsp;&nbsp;
-        <a href="#-contributions">Contributions</a>&nbsp;&nbsp;&nbsp;
-        <a href="#-blog">Blog</a>&nbsp;&nbsp;&nbsp;
-        <a href="#-mentors">Mentors</a>&nbsp;&nbsp;&nbsp;
-        <a href="#-links">Links</a>
-    </code>
+<code> <a href="#-project-abstract">Project Abstract</a>&nbsp;&nbsp;&nbsp; <a href="#-deliverables">Deliverables</a>&nbsp;&nbsp;&nbsp; <a href="#-demo">Demo</a>&nbsp;&nbsp;&nbsp; <a href="#-contributions">Contributions</a>&nbsp;&nbsp;&nbsp; <a href="#-blog">Blog</a>&nbsp;&nbsp;&nbsp; <a href="#-mentors">Mentors</a>&nbsp;&nbsp;&nbsp; <a href="#-links">Links</a>
+</code>
 </p>
+
+<br>
+<br>
 
 I got a chance to work on the most downloaded App on Rocket.Chat - The Poll App!
 
